@@ -1,6 +1,6 @@
 import java.io.IOException;
 import java.util.Scanner;
-
+//first change
 class node{
 	public int quotiety = 1;//系数，正整数
 	public char str[] = new char[26];//只能以单个字母作为变量
